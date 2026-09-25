@@ -2,7 +2,7 @@
 
 At this time, LLM-powered agents are almost exclusively reactive. The following writeup presents a conceptual framework of hypothesized methodologies that will theoretically enable agents to generate novel, coherent thoughts. The proposed method requires a highly dense, nested data structure with probabilistic traversal across interconnected, layer-agnostic memories/artifacts. The following overall steps outline the spontaneous thought generation process proposed below:
 
-`Pulse` > `Propagation` > `Logical Consideration` > (repeat until, novel coherent thought is produced) > `Output pseudo-random thought`
+`Pulse` > `Propagation` > `Logical Consideration` > (repeat until a novel, coherent thought is produced) > `Output pseudo-random thought`
 
 How to Mimic Random Thought in Autonomous Agents 
 
