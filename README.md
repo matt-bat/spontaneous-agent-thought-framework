@@ -1,8 +1,8 @@
 ## Evolving Agents into Spontaneous Self-Thinkers
 
-At this time, LLM-powered agents are almost exclusively reactive. The following writeup presents a conceptual framework of hypothesized methodologies that will theoretically enable agents to generate novel, coherent thoughts. The proposed method requires a highly dense, nested, data structure with probabilistic traversal across interconnected, layer-agnistic, memories/artifacts. The following overall steps outline the spontaneous thought generation process proposed below:
+At this time, LLM-powered agents are almost exclusively reactive. The following writeup presents a conceptual framework of hypothesized methodologies that will theoretically enable agents to generate novel, coherent thoughts. The proposed method requires a highly dense, nested data structure with probabilistic traversal across interconnected, layer-agnistic memories/artifacts. The following overall steps outline the spontaneous thought generation process proposed below:
 
-`Pulse` > `Propagation` > `Logical Consideration` > (repeat until, novel, coherent thought is produced) > `Ouput pseudo-random thought`
+`Pulse` > `Propagation` > `Logical Consideration` > (repeat until, novel coherent thought is produced) > `Ouput pseudo-random thought`
 
 How to Mimick Random Thought in Autonomous Agents 
 
@@ -17,16 +17,17 @@ How to Mimick Random Thought in Autonomous Agents
 #### With the weighted 'memory recall' score and neural mind-map of memories, models will be naturally predisposed to their synthetic 'thoughts' traversing certain pathways based on probabilities derived from complex neural connections.
 
 ### The following will assist in forming a thought 'naturally':
-- The average number of random thoughts a human will have during typical waking hours (undetermined at present).
+- A target for number of thoughts per cycle, and length/intensity of each thought process. 
 - An algorithm that determines the initial thought 'seed' (which sparks a 'thought', that propagates from one or more point(s) in the neural memory web; such point(s) could be anywhere based on the determined probability of traversing to each connection from the present focus).
-- A secondary algorithm that determines which connected path will be visited next, using the 'memory recall' score to determine the likelihood of each connected memory to be the next one to be in the agent's focus
-- As memories are traversed during this 'thought process', they should be tracked within the current 'thought' (think of a canvas, where the paint is each memory/subject/or otherwise in the agent's current focus as the thought process progresses; the agent's current focus is the brush, which switches between subjects/memories as if they are colours of paint) via a log that only persists until the thought process ends and an output is generated. 
+- A secondary algorithm that determines which connected path will be visited next, using the 'memory recall' score to determine the likelihood of each connected memory to be the next one in the agent's focus.
+- As memories are traversed during this 'thought process', they should be tracked within the current 'thought' (think of a canvas, where the paint is each memory/subject/or otherwise in the agent's current focus as the thought process progresses; the agent's current focus is the brush, which switches between subjects/memories as if they are colours of paint) via a log that only persists in the agent's memory until the thought process ends and an output is generated. 
+- User-readable log files with the agent's internal dialogue and notes taken during the thought generation process should be created and saved in an accessible directory. 
 
 ### How to form a natural 'thought':
 - A thought is composed through a process similar to that described above, though certain variables will be used as parameters to help tune the synthetic 'random thoughts' so they are formed as naturally as possible. 
 - Variables can include the average number of different items traversed in a human's mental web to form a thought, along with the average number of primary/sub-topics involved, plus the number of 'layers' deep a though goes into a main subject (in this case, a 'cell'). 
-- The thought process should be cyclic in nature. After the 'seed' is executed, each 'cycle' should represent a probabilistic traversal through the mind web followed by a logical consideration process where meanings behind the connections recently made are derived.
-- Notes are saved in the temporary log after each of the agent's logical consideration steps, which help to form a coherent final thought. 
+- The thought process should be cyclic in nature. After the 'seed' is executed, each 'cycle' should represent a probabilistic traversal through the mind web followed by a logical consideration stage where meanings behind the connections recently made are derived.
+- Notes are saved in the agent's log after each of the agent's logical consideration steps, which help to form a coherent final thought. 
 
 
 ### Cell-like memories:
@@ -64,6 +65,6 @@ Please note the license for this repo is fully permissive and open source, free 
 
 **Thank you for reading.** 
 
-This repository will likely be expanded in the future with more on my testing and findings. If you have made it this far, please give me a star! 
+This repository will be expanded in the future with more on my testing and findings. If you have made it this far, please give me a star! 
 
 In the meantime, I encourage you to visit the discussions page and make contributions where relevant. 
