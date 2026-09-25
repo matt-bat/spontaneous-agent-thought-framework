@@ -1,4 +1,10 @@
-Mimicking Random Thought in Autonomous Agents 
+##Evolving Agents into Spontaneous Self-Thinkers
+
+At this time, LLM-powered agents are almost exclusively reactive. The following writeup presents a conceptual framework of hypothesized methodologies that will theoretically enable agents to generate novel, coherent thoughts. The proposed method requires a highly dense, nested, data structure with probabilistic traversal across interconnected, layer-agnistic, memories/artifacts. The following overall steps outline the spontaneous thought generation process proposed below:
+
+`Pulse` > `Propagation` > `Logical Consideration` > (repeat until, novel, coherent thought is produced) > `Ouput pseudo-random thought`
+
+How to Mimick Random Thought in Autonomous Agents 
 
 **None of this text was written, edited, or reviewed by any AI or LLM. It was written and edited solely by myself.**
 
