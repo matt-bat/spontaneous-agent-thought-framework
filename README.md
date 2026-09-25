@@ -1,10 +1,10 @@
 ## Evolving Agents into Spontaneous Self-Thinkers
 
-At this time, LLM-powered agents are almost exclusively reactive. The following writeup presents a conceptual framework of hypothesized methodologies that will theoretically enable agents to generate novel, coherent thoughts. The proposed method requires a highly dense, nested data structure with probabilistic traversal across interconnected, layer-agnistic memories/artifacts. The following overall steps outline the spontaneous thought generation process proposed below:
+At this time, LLM-powered agents are almost exclusively reactive. The following writeup presents a conceptual framework of hypothesized methodologies that will theoretically enable agents to generate novel, coherent thoughts. The proposed method requires a highly dense, nested data structure with probabilistic traversal across interconnected, layer-agnostic memories/artifacts. The following overall steps outline the spontaneous thought generation process proposed below:
 
-`Pulse` > `Propagation` > `Logical Consideration` > (repeat until, novel coherent thought is produced) > `Ouput pseudo-random thought`
+`Pulse` > `Propagation` > `Logical Consideration` > (repeat until, novel coherent thought is produced) > `Output pseudo-random thought`
 
-How to Mimick Random Thought in Autonomous Agents 
+How to Mimic Random Thought in Autonomous Agents 
 
 **None of this text was written, edited, or reviewed by any AI or LLM. It was written and edited solely by myself.**
 
@@ -24,8 +24,8 @@ How to Mimick Random Thought in Autonomous Agents
 - User-readable log files with the agent's internal dialogue and notes taken during the thought generation process should be created and saved in an accessible directory. 
 
 ### How to form a natural 'thought':
-- A thought is composed through a process similar to that described above, though certain variables will be used as parameters to help tune the synthetic 'random thoughts' so they are formed as naturally as possible. 
-- Variables can include the average number of different items traversed in a human's mental web to form a thought, along with the average number of primary/sub-topics involved, plus the number of 'layers' deep a though goes into a main subject (in this case, a 'cell'). 
+- A thought is composed through a process similar to that described above; certain variables will be used as parameters to help tune the synthetic 'random thoughts' so they are formed as naturally as possible. 
+- Variables can include the average number of different items traversed in a human's mental web to form a thought, along with the average number of primary/sub-topics involved, plus the number of 'layers' deep a thought goes into a main subject (in this case, a 'cell'). 
 - The thought process should be cyclic in nature. After the 'seed' is executed, each 'cycle' should represent a probabilistic traversal through the mind web followed by a logical consideration stage where meanings behind the connections recently made are derived.
 - Notes are saved in the agent's log after each of the agent's logical consideration steps, which help to form a coherent final thought. 
 
@@ -40,7 +40,7 @@ How to Mimick Random Thought in Autonomous Agents
 ### Interstitial fluid and a 'wave'-like thought propagation:
 - With such a dense network of thoughts in a 3D space, the utilization of a synthetic 'interstitial fluid' to propagate a wave-like pulse that feeds an algorithm to determine the next connection to focus on appears to be ideal in theory.
 - The pulse should originate from the last cell/organelle of focus before propagating in all directions like a bubble.
-- For each cycle, the thought propoagation pulse should emit after the 'local consideration' step is complete.
+- For each cycle, the thought propagation pulse should emit after the 'local consideration' step is complete.
 
 ### Neuron length derived from the 'memory recall' score and number of connections between each cell (more connections = closer distance): 
 - Normalize a 'similarity score' using the highest and lowest number of connections between cells in the 'brain' at present as natural upper and lower bounds for the score (with the normalization converting those bounds naturally to a range of 0.00 - 1.00).
